@@ -21,7 +21,7 @@ applicable agreement for further details.
 (header "symbol" (version "1.1"))
 (symbol
 	(rect 0 0 96 48)
-	(text "lpm_constant7" (rect 6 1 106 17)(font "Arial" (font_size 10)))
+	(text "lpm_constant14" (rect 2 1 110 17)(font "Arial" (font_size 10)))
 	(text "inst" (rect 8 32 25 44)(font "Arial" ))
 	(port
 		(pt 96 24)
@@ -31,7 +31,7 @@ applicable agreement for further details.
 		(line (pt 96 24)(pt 80 24)(line_width 3))
 	)
 	(drawing
-		(text "108" (rect 65 18 80 30)(font "Arial" ))
+		(text "85" (rect 70 18 80 30)(font "Arial" ))
 		(text "8" (rect 87 25 92 37)(font "Arial" ))
 		(line (pt 16 16)(pt 80 16)(line_width 1))
 		(line (pt 80 16)(pt 80 32)(line_width 1))

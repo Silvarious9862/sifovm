@@ -4,7 +4,7 @@
 -- MODULE: lpm_constant 
 
 -- ============================================================
--- File Name: lpm_constant7.tdf
+-- File Name: lpm_constant16.tdf
 -- Megafunction Name(s):
 -- 			lpm_constant
 --
@@ -36,7 +36,7 @@ INCLUDE "lpm_constant.inc";
 
 
 
-SUBDESIGN lpm_constant7
+SUBDESIGN lpm_constant16
 (
 	result[7..0]	 : OUTPUT;
 )
@@ -74,9 +74,9 @@ END;
 -- Retrieval info: USED_PORT: result 0 0 8 0 OUTPUT NODEFVAL result[7..0]
 -- Retrieval info: CONNECT: result 0 0 8 0 @result 0 0 8 0
 -- Retrieval info: LIBRARY: lpm lpm.lpm_components.all
--- Retrieval info: GEN_FILE: TYPE_NORMAL lpm_constant7.tdf TRUE
--- Retrieval info: GEN_FILE: TYPE_NORMAL lpm_constant7.inc TRUE
--- Retrieval info: GEN_FILE: TYPE_NORMAL lpm_constant7.cmp FALSE
--- Retrieval info: GEN_FILE: TYPE_NORMAL lpm_constant7.bsf TRUE FALSE
--- Retrieval info: GEN_FILE: TYPE_NORMAL lpm_constant7_inst.tdf FALSE
+-- Retrieval info: GEN_FILE: TYPE_NORMAL lpm_constant16.tdf TRUE
+-- Retrieval info: GEN_FILE: TYPE_NORMAL lpm_constant16.inc TRUE
+-- Retrieval info: GEN_FILE: TYPE_NORMAL lpm_constant16.cmp FALSE
+-- Retrieval info: GEN_FILE: TYPE_NORMAL lpm_constant16.bsf TRUE FALSE
+-- Retrieval info: GEN_FILE: TYPE_NORMAL lpm_constant16_inst.tdf FALSE
 -- Retrieval info: LIB_FILE: lpm
