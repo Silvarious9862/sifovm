@@ -2734,3 +2734,4 @@ applicable agreement for further details.
 	(pt 544 376)
 )
 (junction (pt 976 288))
+(rectangle (rect 1600 744 1968 936)(color 255 0 0)(line_width 4))
